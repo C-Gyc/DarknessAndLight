@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ee50a273-91e4-40a9-a274-a3a6b7035e4d",
+  "files": [],
+  "subMetas": {
+    "84427": {
+      "importer": "gltf-material",
+      "uuid": "ee50a273-91e4-40a9-a274-a3a6b7035e4d@84427",
+      "displayName": "",
+      "id": "84427",
+      "name": "Tx_Staircase2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "61f15": {
+      "importer": "gltf-mesh",
+      "uuid": "ee50a273-91e4-40a9-a274-a3a6b7035e4d@61f15",
+      "displayName": "",
+      "id": "61f15",
+      "name": "modelStaircase2_1.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 152
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "91dcf": {
+      "importer": "texture",
+      "uuid": "ee50a273-91e4-40a9-a274-a3a6b7035e4d@91dcf",
+      "displayName": "",
+      "id": "91dcf",
+      "name": "file4.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Staircase2.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0ccbd": {
+      "importer": "gltf-scene",
+      "uuid": "ee50a273-91e4-40a9-a274-a3a6b7035e4d@0ccbd",
+      "displayName": "",
+      "id": "0ccbd",
+      "name": "modelStaircase2_1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file4",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Staircase2.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "ee50a273-91e4-40a9-a274-a3a6b7035e4d@61f15"
+      ],
+      "skeletons": [],
+      "textures": [
+        "ee50a273-91e4-40a9-a274-a3a6b7035e4d@91dcf"
+      ],
+      "materials": [
+        "ee50a273-91e4-40a9-a274-a3a6b7035e4d@84427"
+      ],
+      "scenes": [
+        "ee50a273-91e4-40a9-a274-a3a6b7035e4d@0ccbd"
+      ]
+    }
+  }
+}

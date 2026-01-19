@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "4d49d30b-dc89-4eec-a30f-1df124559f68",
+  "files": [],
+  "subMetas": {
+    "dac86": {
+      "importer": "gltf-mesh",
+      "uuid": "4d49d30b-dc89-4eec-a30f-1df124559f68@dac86",
+      "displayName": "",
+      "id": "dac86",
+      "name": "modelLogBig.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 136
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4ccc4": {
+      "importer": "texture",
+      "uuid": "4d49d30b-dc89-4eec-a30f-1df124559f68@4ccc4",
+      "displayName": "",
+      "id": "4ccc4",
+      "name": "pasted__file11.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_LogBig.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "47b30": {
+      "importer": "gltf-material",
+      "uuid": "4d49d30b-dc89-4eec-a30f-1df124559f68@47b30",
+      "displayName": "",
+      "id": "47b30",
+      "name": "Tx_LogBig.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4e3ba": {
+      "importer": "gltf-scene",
+      "uuid": "4d49d30b-dc89-4eec-a30f-1df124559f68@4e3ba",
+      "displayName": "",
+      "id": "4e3ba",
+      "name": "modelLogBig.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "pasted__file11",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_LogBig.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "4d49d30b-dc89-4eec-a30f-1df124559f68@dac86"
+      ],
+      "skeletons": [],
+      "textures": [
+        "4d49d30b-dc89-4eec-a30f-1df124559f68@4ccc4"
+      ],
+      "materials": [
+        "4d49d30b-dc89-4eec-a30f-1df124559f68@47b30"
+      ],
+      "scenes": [
+        "4d49d30b-dc89-4eec-a30f-1df124559f68@4e3ba"
+      ]
+    }
+  }
+}

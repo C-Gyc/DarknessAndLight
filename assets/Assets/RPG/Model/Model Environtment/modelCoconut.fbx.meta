@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "21d09118-6ce5-41cc-bf88-530c48ff7038",
+  "files": [],
+  "subMetas": {
+    "34276": {
+      "importer": "gltf-mesh",
+      "uuid": "21d09118-6ce5-41cc-bf88-530c48ff7038@34276",
+      "displayName": "",
+      "id": "34276",
+      "name": "modelCoconut.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 348
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "eaa1d": {
+      "importer": "texture",
+      "uuid": "21d09118-6ce5-41cc-bf88-530c48ff7038@eaa1d",
+      "displayName": "",
+      "id": "eaa1d",
+      "name": "file46.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Coconut.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2d628": {
+      "importer": "gltf-material",
+      "uuid": "21d09118-6ce5-41cc-bf88-530c48ff7038@2d628",
+      "displayName": "",
+      "id": "2d628",
+      "name": "Tx_Coconut.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d4833": {
+      "importer": "gltf-scene",
+      "uuid": "21d09118-6ce5-41cc-bf88-530c48ff7038@d4833",
+      "displayName": "",
+      "id": "d4833",
+      "name": "modelCoconut.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file46",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Coconut.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "21d09118-6ce5-41cc-bf88-530c48ff7038@34276"
+      ],
+      "skeletons": [],
+      "textures": [
+        "21d09118-6ce5-41cc-bf88-530c48ff7038@eaa1d"
+      ],
+      "materials": [
+        "21d09118-6ce5-41cc-bf88-530c48ff7038@2d628"
+      ],
+      "scenes": [
+        "21d09118-6ce5-41cc-bf88-530c48ff7038@d4833"
+      ]
+    }
+  }
+}

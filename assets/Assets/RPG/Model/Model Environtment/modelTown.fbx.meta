@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f8136fe7-1952-40d5-a986-653e40a17355",
+  "files": [],
+  "subMetas": {
+    "5de63": {
+      "importer": "gltf-mesh",
+      "uuid": "f8136fe7-1952-40d5-a986-653e40a17355@5de63",
+      "displayName": "",
+      "id": "5de63",
+      "name": "modelTown.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 104
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e3165": {
+      "importer": "texture",
+      "uuid": "f8136fe7-1952-40d5-a986-653e40a17355@e3165",
+      "displayName": "",
+      "id": "e3165",
+      "name": "file60.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Town.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ab26d": {
+      "importer": "gltf-material",
+      "uuid": "f8136fe7-1952-40d5-a986-653e40a17355@ab26d",
+      "displayName": "",
+      "id": "ab26d",
+      "name": "Tx_Town.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9149": {
+      "importer": "gltf-scene",
+      "uuid": "f8136fe7-1952-40d5-a986-653e40a17355@f9149",
+      "displayName": "",
+      "id": "f9149",
+      "name": "modelTown.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file60",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Town.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "f8136fe7-1952-40d5-a986-653e40a17355@5de63"
+      ],
+      "skeletons": [],
+      "textures": [
+        "f8136fe7-1952-40d5-a986-653e40a17355@e3165"
+      ],
+      "materials": [
+        "f8136fe7-1952-40d5-a986-653e40a17355@ab26d"
+      ],
+      "scenes": [
+        "f8136fe7-1952-40d5-a986-653e40a17355@f9149"
+      ]
+    }
+  }
+}

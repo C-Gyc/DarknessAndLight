@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "dc7705b9-b08e-4f61-b949-c199acb113bb",
+  "files": [],
+  "subMetas": {
+    "a4ab5": {
+      "importer": "gltf-mesh",
+      "uuid": "dc7705b9-b08e-4f61-b949-c199acb113bb@a4ab5",
+      "displayName": "",
+      "id": "a4ab5",
+      "name": "modelBox3Box.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 32
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "eebea": {
+      "importer": "texture",
+      "uuid": "dc7705b9-b08e-4f61-b949-c199acb113bb@eebea",
+      "displayName": "",
+      "id": "eebea",
+      "name": "pasted__file4.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Box3Box.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "03a99": {
+      "importer": "gltf-material",
+      "uuid": "dc7705b9-b08e-4f61-b949-c199acb113bb@03a99",
+      "displayName": "",
+      "id": "03a99",
+      "name": "Tx_Box3Box.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7e0c4": {
+      "importer": "gltf-scene",
+      "uuid": "dc7705b9-b08e-4f61-b949-c199acb113bb@7e0c4",
+      "displayName": "",
+      "id": "7e0c4",
+      "name": "modelBox3Box.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "pasted__file4",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Box3Box.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "dc7705b9-b08e-4f61-b949-c199acb113bb@a4ab5"
+      ],
+      "skeletons": [],
+      "textures": [
+        "dc7705b9-b08e-4f61-b949-c199acb113bb@eebea"
+      ],
+      "materials": [
+        "dc7705b9-b08e-4f61-b949-c199acb113bb@03a99"
+      ],
+      "scenes": [
+        "dc7705b9-b08e-4f61-b949-c199acb113bb@7e0c4"
+      ]
+    }
+  }
+}

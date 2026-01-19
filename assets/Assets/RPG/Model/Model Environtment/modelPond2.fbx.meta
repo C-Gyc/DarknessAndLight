@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e0d1eb90-418a-420c-b8c4-57776372b1ff",
+  "files": [],
+  "subMetas": {
+    "6262a": {
+      "importer": "gltf-mesh",
+      "uuid": "e0d1eb90-418a-420c-b8c4-57776372b1ff@6262a",
+      "displayName": "",
+      "id": "6262a",
+      "name": "modelPond2.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 306
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9a420": {
+      "importer": "texture",
+      "uuid": "e0d1eb90-418a-420c-b8c4-57776372b1ff@9a420",
+      "displayName": "",
+      "id": "9a420",
+      "name": "file12.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_pond2.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "45d42": {
+      "importer": "gltf-material",
+      "uuid": "e0d1eb90-418a-420c-b8c4-57776372b1ff@45d42",
+      "displayName": "",
+      "id": "45d42",
+      "name": "Tx_Pond2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "711da": {
+      "importer": "gltf-scene",
+      "uuid": "e0d1eb90-418a-420c-b8c4-57776372b1ff@711da",
+      "displayName": "",
+      "id": "711da",
+      "name": "modelPond2.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file12",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_pond2.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "e0d1eb90-418a-420c-b8c4-57776372b1ff@6262a"
+      ],
+      "skeletons": [],
+      "textures": [
+        "e0d1eb90-418a-420c-b8c4-57776372b1ff@9a420"
+      ],
+      "materials": [
+        "e0d1eb90-418a-420c-b8c4-57776372b1ff@45d42"
+      ],
+      "scenes": [
+        "e0d1eb90-418a-420c-b8c4-57776372b1ff@711da"
+      ]
+    }
+  }
+}

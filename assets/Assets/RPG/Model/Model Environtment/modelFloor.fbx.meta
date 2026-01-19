@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "52f55ba5-bddf-4a53-b34f-6c4636585abd",
+  "files": [],
+  "subMetas": {
+    "6ec9f": {
+      "importer": "gltf-mesh",
+      "uuid": "52f55ba5-bddf-4a53-b34f-6c4636585abd@6ec9f",
+      "displayName": "",
+      "id": "6ec9f",
+      "name": "modelFloor.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 174
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "411d9": {
+      "importer": "texture",
+      "uuid": "52f55ba5-bddf-4a53-b34f-6c4636585abd@411d9",
+      "displayName": "",
+      "id": "411d9",
+      "name": "file59.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Floor.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8ec48": {
+      "importer": "gltf-material",
+      "uuid": "52f55ba5-bddf-4a53-b34f-6c4636585abd@8ec48",
+      "displayName": "",
+      "id": "8ec48",
+      "name": "Tx_Floor.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c7f03": {
+      "importer": "gltf-scene",
+      "uuid": "52f55ba5-bddf-4a53-b34f-6c4636585abd@c7f03",
+      "displayName": "",
+      "id": "c7f03",
+      "name": "modelFloor.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file59",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Floor.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "52f55ba5-bddf-4a53-b34f-6c4636585abd@6ec9f"
+      ],
+      "skeletons": [],
+      "textures": [
+        "52f55ba5-bddf-4a53-b34f-6c4636585abd@411d9"
+      ],
+      "materials": [
+        "52f55ba5-bddf-4a53-b34f-6c4636585abd@8ec48"
+      ],
+      "scenes": [
+        "52f55ba5-bddf-4a53-b34f-6c4636585abd@c7f03"
+      ]
+    }
+  }
+}

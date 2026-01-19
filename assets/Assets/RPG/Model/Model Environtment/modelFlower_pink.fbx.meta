@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "24344c17-f8aa-4dcd-a32a-eefe4b22acf6",
+  "files": [],
+  "subMetas": {
+    "8a9d2": {
+      "importer": "gltf-mesh",
+      "uuid": "24344c17-f8aa-4dcd-a32a-eefe4b22acf6@8a9d2",
+      "displayName": "",
+      "id": "8a9d2",
+      "name": "modelFlower_pink.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 216
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cafc8": {
+      "importer": "texture",
+      "uuid": "24344c17-f8aa-4dcd-a32a-eefe4b22acf6@cafc8",
+      "displayName": "",
+      "id": "cafc8",
+      "name": "file19.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_flower_pink.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "952ca": {
+      "importer": "gltf-material",
+      "uuid": "24344c17-f8aa-4dcd-a32a-eefe4b22acf6@952ca",
+      "displayName": "",
+      "id": "952ca",
+      "name": "Tx_flower_pink.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ab51b": {
+      "importer": "gltf-scene",
+      "uuid": "24344c17-f8aa-4dcd-a32a-eefe4b22acf6@ab51b",
+      "displayName": "",
+      "id": "ab51b",
+      "name": "modelFlower_pink.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file19",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_flower_pink.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "24344c17-f8aa-4dcd-a32a-eefe4b22acf6@8a9d2"
+      ],
+      "skeletons": [],
+      "textures": [
+        "24344c17-f8aa-4dcd-a32a-eefe4b22acf6@cafc8"
+      ],
+      "materials": [
+        "24344c17-f8aa-4dcd-a32a-eefe4b22acf6@952ca"
+      ],
+      "scenes": [
+        "24344c17-f8aa-4dcd-a32a-eefe4b22acf6@ab51b"
+      ]
+    }
+  }
+}

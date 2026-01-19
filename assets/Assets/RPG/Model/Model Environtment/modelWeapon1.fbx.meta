@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8fab1179-60db-4f43-a8ee-625d83f3f583",
+  "files": [],
+  "subMetas": {
+    "9afc5": {
+      "importer": "gltf-mesh",
+      "uuid": "8fab1179-60db-4f43-a8ee-625d83f3f583@9afc5",
+      "displayName": "",
+      "id": "9afc5",
+      "name": "modelWeapon1.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 750
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "29a28": {
+      "importer": "texture",
+      "uuid": "8fab1179-60db-4f43-a8ee-625d83f3f583@29a28",
+      "displayName": "",
+      "id": "29a28",
+      "name": "file28.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Weapon.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f24ab": {
+      "importer": "gltf-material",
+      "uuid": "8fab1179-60db-4f43-a8ee-625d83f3f583@f24ab",
+      "displayName": "",
+      "id": "f24ab",
+      "name": "Tx_Weapon.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b7217": {
+      "importer": "gltf-scene",
+      "uuid": "8fab1179-60db-4f43-a8ee-625d83f3f583@b7217",
+      "displayName": "",
+      "id": "b7217",
+      "name": "modelWeapon1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file28",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Weapon.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "8fab1179-60db-4f43-a8ee-625d83f3f583@9afc5"
+      ],
+      "skeletons": [],
+      "textures": [
+        "8fab1179-60db-4f43-a8ee-625d83f3f583@29a28"
+      ],
+      "materials": [
+        "8fab1179-60db-4f43-a8ee-625d83f3f583@f24ab"
+      ],
+      "scenes": [
+        "8fab1179-60db-4f43-a8ee-625d83f3f583@b7217"
+      ]
+    }
+  }
+}

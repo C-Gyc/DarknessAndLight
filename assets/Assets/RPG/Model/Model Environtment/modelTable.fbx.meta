@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "58c5aa4f-bfe8-43ae-a38a-fb851a55de96",
+  "files": [],
+  "subMetas": {
+    "bbdac": {
+      "importer": "gltf-mesh",
+      "uuid": "58c5aa4f-bfe8-43ae-a38a-fb851a55de96@bbdac",
+      "displayName": "",
+      "id": "bbdac",
+      "name": "modelTable.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 80
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5189c": {
+      "importer": "texture",
+      "uuid": "58c5aa4f-bfe8-43ae-a38a-fb851a55de96@5189c",
+      "displayName": "",
+      "id": "5189c",
+      "name": "file6.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Table.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4ec73": {
+      "importer": "gltf-material",
+      "uuid": "58c5aa4f-bfe8-43ae-a38a-fb851a55de96@4ec73",
+      "displayName": "",
+      "id": "4ec73",
+      "name": "Tx_Table.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "03727": {
+      "importer": "gltf-scene",
+      "uuid": "58c5aa4f-bfe8-43ae-a38a-fb851a55de96@03727",
+      "displayName": "",
+      "id": "03727",
+      "name": "modelTable.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file6",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Table.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "58c5aa4f-bfe8-43ae-a38a-fb851a55de96@bbdac"
+      ],
+      "skeletons": [],
+      "textures": [
+        "58c5aa4f-bfe8-43ae-a38a-fb851a55de96@5189c"
+      ],
+      "materials": [
+        "58c5aa4f-bfe8-43ae-a38a-fb851a55de96@4ec73"
+      ],
+      "scenes": [
+        "58c5aa4f-bfe8-43ae-a38a-fb851a55de96@03727"
+      ]
+    }
+  }
+}

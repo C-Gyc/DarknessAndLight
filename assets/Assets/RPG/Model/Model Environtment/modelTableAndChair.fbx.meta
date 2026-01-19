@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3a767bdc-6320-4b3a-921b-b238ceea506c",
+  "files": [],
+  "subMetas": {
+    "16360": {
+      "importer": "gltf-scene",
+      "uuid": "3a767bdc-6320-4b3a-921b-b238ceea506c@16360",
+      "displayName": "",
+      "id": "16360",
+      "name": "modelTableAndChair.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f3ccd": {
+      "importer": "gltf-mesh",
+      "uuid": "3a767bdc-6320-4b3a-921b-b238ceea506c@f3ccd",
+      "displayName": "",
+      "id": "f3ccd",
+      "name": "modelTableAndChair.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 916
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f7fc8": {
+      "importer": "texture",
+      "uuid": "3a767bdc-6320-4b3a-921b-b238ceea506c@f7fc8",
+      "displayName": "",
+      "id": "f7fc8",
+      "name": "file29.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_TableAndChair.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a83d1": {
+      "importer": "gltf-material",
+      "uuid": "3a767bdc-6320-4b3a-921b-b238ceea506c@a83d1",
+      "displayName": "",
+      "id": "a83d1",
+      "name": "Tx_TableAndChair.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file29",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_TableAndChair.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "3a767bdc-6320-4b3a-921b-b238ceea506c@f3ccd"
+      ],
+      "skeletons": [],
+      "textures": [
+        "3a767bdc-6320-4b3a-921b-b238ceea506c@f7fc8"
+      ],
+      "materials": [
+        "3a767bdc-6320-4b3a-921b-b238ceea506c@a83d1"
+      ],
+      "scenes": [
+        "3a767bdc-6320-4b3a-921b-b238ceea506c@16360"
+      ]
+    }
+  }
+}

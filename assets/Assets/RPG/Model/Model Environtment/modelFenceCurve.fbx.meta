@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "fd43beba-56f3-4603-99c3-a92cfb74fc15",
+  "files": [],
+  "subMetas": {
+    "60c17": {
+      "importer": "gltf-mesh",
+      "uuid": "fd43beba-56f3-4603-99c3-a92cfb74fc15@60c17",
+      "displayName": "",
+      "id": "60c17",
+      "name": "modelFenceCurve.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 86
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a562b": {
+      "importer": "texture",
+      "uuid": "fd43beba-56f3-4603-99c3-a92cfb74fc15@a562b",
+      "displayName": "",
+      "id": "a562b",
+      "name": "file3.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Fence02.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "491b0": {
+      "importer": "gltf-material",
+      "uuid": "fd43beba-56f3-4603-99c3-a92cfb74fc15@491b0",
+      "displayName": "",
+      "id": "491b0",
+      "name": "Tx_Fence02.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e2f26": {
+      "importer": "gltf-scene",
+      "uuid": "fd43beba-56f3-4603-99c3-a92cfb74fc15@e2f26",
+      "displayName": "",
+      "id": "e2f26",
+      "name": "modelFenceCurve.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file3",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Fence02.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "fd43beba-56f3-4603-99c3-a92cfb74fc15@60c17"
+      ],
+      "skeletons": [],
+      "textures": [
+        "fd43beba-56f3-4603-99c3-a92cfb74fc15@a562b"
+      ],
+      "materials": [
+        "fd43beba-56f3-4603-99c3-a92cfb74fc15@491b0"
+      ],
+      "scenes": [
+        "fd43beba-56f3-4603-99c3-a92cfb74fc15@e2f26"
+      ]
+    }
+  }
+}

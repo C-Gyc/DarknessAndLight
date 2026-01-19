@@ -1,0 +1,206 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2f4c0e36-a492-4de3-bc12-957fcb375a3c",
+  "files": [
+    "__original-animation-0.bin"
+  ],
+  "subMetas": {
+    "4f00b": {
+      "importer": "gltf-mesh",
+      "uuid": "2f4c0e36-a492-4de3-bc12-957fcb375a3c@4f00b",
+      "displayName": "",
+      "id": "4f00b",
+      "name": "Bar_Low_ZBrush_defualt_group.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 1372
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73b7f": {
+      "importer": "gltf-animation",
+      "uuid": "2f4c0e36-a492-4de3-bc12-957fcb375a3c@73b7f",
+      "displayName": "",
+      "id": "73b7f",
+      "name": "Take 001.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.4583332538604736
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "2f4c0e36-a492-4de3-bc12-957fcb375a3c@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 30
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "612f0": {
+      "importer": "gltf-embeded-image",
+      "uuid": "2f4c0e36-a492-4de3-bc12-957fcb375a3c@612f0",
+      "displayName": "",
+      "id": "612f0",
+      "name": "file4.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": false,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".jpg",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "91dcf": {
+      "importer": "texture",
+      "uuid": "2f4c0e36-a492-4de3-bc12-957fcb375a3c@91dcf",
+      "displayName": "",
+      "id": "91dcf",
+      "name": "file4.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "2f4c0e36-a492-4de3-bc12-957fcb375a3c@612f0"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b874d": {
+      "importer": "gltf-material",
+      "uuid": "2f4c0e36-a492-4de3-bc12-957fcb375a3c@b874d",
+      "displayName": "",
+      "id": "b874d",
+      "name": "QuestBarMat.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f2838": {
+      "importer": "gltf-scene",
+      "uuid": "2f4c0e36-a492-4de3-bc12-957fcb375a3c@f2838",
+      "displayName": "",
+      "id": "f2838",
+      "name": "Bar_NPC.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file4",
+        "uri": "2f4c0e36-a492-4de3-bc12-957fcb375a3c@612f0"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 2.4583332538604736,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Take 001",
+            "from": 0,
+            "to": 2.4583332538604736,
+            "wrapMode": 2,
+            "previousId": "73b7f"
+          }
+        ]
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "2f4c0e36-a492-4de3-bc12-957fcb375a3c@4f00b"
+      ],
+      "skeletons": [
+        "2f4c0e36-a492-4de3-bc12-957fcb375a3c@438fe"
+      ],
+      "textures": [
+        "2f4c0e36-a492-4de3-bc12-957fcb375a3c@91dcf"
+      ],
+      "materials": [
+        "2f4c0e36-a492-4de3-bc12-957fcb375a3c@b874d"
+      ],
+      "scenes": [
+        "2f4c0e36-a492-4de3-bc12-957fcb375a3c@f2838"
+      ]
+    }
+  }
+}

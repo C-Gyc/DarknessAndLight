@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b06a22c8-bcc5-429a-b435-52a6261b7886",
+  "files": [],
+  "subMetas": {
+    "36900": {
+      "importer": "gltf-material",
+      "uuid": "b06a22c8-bcc5-429a-b435-52a6261b7886@36900",
+      "displayName": "",
+      "id": "36900",
+      "name": "Tx_Box.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "51c9a": {
+      "importer": "gltf-mesh",
+      "uuid": "b06a22c8-bcc5-429a-b435-52a6261b7886@51c9a",
+      "displayName": "",
+      "id": "51c9a",
+      "name": "modelBox.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 12
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "922ba": {
+      "importer": "texture",
+      "uuid": "b06a22c8-bcc5-429a-b435-52a6261b7886@922ba",
+      "displayName": "",
+      "id": "922ba",
+      "name": "file27.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Box.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "332cd": {
+      "importer": "gltf-scene",
+      "uuid": "b06a22c8-bcc5-429a-b435-52a6261b7886@332cd",
+      "displayName": "",
+      "id": "332cd",
+      "name": "modelBox.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file27",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Box.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "b06a22c8-bcc5-429a-b435-52a6261b7886@51c9a"
+      ],
+      "skeletons": [],
+      "textures": [
+        "b06a22c8-bcc5-429a-b435-52a6261b7886@922ba"
+      ],
+      "materials": [
+        "b06a22c8-bcc5-429a-b435-52a6261b7886@36900"
+      ],
+      "scenes": [
+        "b06a22c8-bcc5-429a-b435-52a6261b7886@332cd"
+      ]
+    }
+  }
+}

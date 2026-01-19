@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "83046315-9628-4402-8fd5-f1032e5e13cc",
+  "files": [],
+  "subMetas": {
+    "da2c8": {
+      "importer": "gltf-mesh",
+      "uuid": "83046315-9628-4402-8fd5-f1032e5e13cc@da2c8",
+      "displayName": "",
+      "id": "da2c8",
+      "name": "modelPotion_red01.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 180
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f8dad": {
+      "importer": "texture",
+      "uuid": "83046315-9628-4402-8fd5-f1032e5e13cc@f8dad",
+      "displayName": "",
+      "id": "f8dad",
+      "name": "file55.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Potion.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ee2c5": {
+      "importer": "gltf-material",
+      "uuid": "83046315-9628-4402-8fd5-f1032e5e13cc@ee2c5",
+      "displayName": "",
+      "id": "ee2c5",
+      "name": "Tx_Potion.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f3f4b": {
+      "importer": "gltf-scene",
+      "uuid": "83046315-9628-4402-8fd5-f1032e5e13cc@f3f4b",
+      "displayName": "",
+      "id": "f3f4b",
+      "name": "modelPotion_red01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file55",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Potion.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "83046315-9628-4402-8fd5-f1032e5e13cc@da2c8"
+      ],
+      "skeletons": [],
+      "textures": [
+        "83046315-9628-4402-8fd5-f1032e5e13cc@f8dad"
+      ],
+      "materials": [
+        "83046315-9628-4402-8fd5-f1032e5e13cc@ee2c5"
+      ],
+      "scenes": [
+        "83046315-9628-4402-8fd5-f1032e5e13cc@f3f4b"
+      ]
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "81078b53-c0c4-4239-9ef9-dbdb4298bfed",
+  "files": [],
+  "subMetas": {
+    "6cf73": {
+      "importer": "gltf-mesh",
+      "uuid": "81078b53-c0c4-4239-9ef9-dbdb4298bfed@6cf73",
+      "displayName": "",
+      "id": "6cf73",
+      "name": "modelLog.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 96
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6b754": {
+      "importer": "texture",
+      "uuid": "81078b53-c0c4-4239-9ef9-dbdb4298bfed@6b754",
+      "displayName": "",
+      "id": "6b754",
+      "name": "file9.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Log.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0f18e": {
+      "importer": "gltf-material",
+      "uuid": "81078b53-c0c4-4239-9ef9-dbdb4298bfed@0f18e",
+      "displayName": "",
+      "id": "0f18e",
+      "name": "Tx_Log.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bddce": {
+      "importer": "gltf-scene",
+      "uuid": "81078b53-c0c4-4239-9ef9-dbdb4298bfed@bddce",
+      "displayName": "",
+      "id": "bddce",
+      "name": "modelLog.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file9",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Log.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "81078b53-c0c4-4239-9ef9-dbdb4298bfed@6cf73"
+      ],
+      "skeletons": [],
+      "textures": [
+        "81078b53-c0c4-4239-9ef9-dbdb4298bfed@6b754"
+      ],
+      "materials": [
+        "81078b53-c0c4-4239-9ef9-dbdb4298bfed@0f18e"
+      ],
+      "scenes": [
+        "81078b53-c0c4-4239-9ef9-dbdb4298bfed@bddce"
+      ]
+    }
+  }
+}

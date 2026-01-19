@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "993efdcd-953a-40d6-982d-9d031674da46",
+  "files": [],
+  "subMetas": {
+    "d4613": {
+      "importer": "gltf-mesh",
+      "uuid": "993efdcd-953a-40d6-982d-9d031674da46@d4613",
+      "displayName": "",
+      "id": "d4613",
+      "name": "modelFlower_yellow.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 216
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a59ea": {
+      "importer": "texture",
+      "uuid": "993efdcd-953a-40d6-982d-9d031674da46@a59ea",
+      "displayName": "",
+      "id": "a59ea",
+      "name": "file18.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_flower_yellow.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a563a": {
+      "importer": "gltf-material",
+      "uuid": "993efdcd-953a-40d6-982d-9d031674da46@a563a",
+      "displayName": "",
+      "id": "a563a",
+      "name": "Tx_flower_yellow.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5fd4d": {
+      "importer": "gltf-scene",
+      "uuid": "993efdcd-953a-40d6-982d-9d031674da46@5fd4d",
+      "displayName": "",
+      "id": "5fd4d",
+      "name": "modelFlower_yellow.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file18",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_flower_yellow.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "993efdcd-953a-40d6-982d-9d031674da46@d4613"
+      ],
+      "skeletons": [],
+      "textures": [
+        "993efdcd-953a-40d6-982d-9d031674da46@a59ea"
+      ],
+      "materials": [
+        "993efdcd-953a-40d6-982d-9d031674da46@a563a"
+      ],
+      "scenes": [
+        "993efdcd-953a-40d6-982d-9d031674da46@5fd4d"
+      ]
+    }
+  }
+}

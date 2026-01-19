@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "668933e3-e474-4bbd-9837-576c2ff1567b",
+  "files": [],
+  "subMetas": {
+    "56784": {
+      "importer": "gltf-mesh",
+      "uuid": "668933e3-e474-4bbd-9837-576c2ff1567b@56784",
+      "displayName": "",
+      "id": "56784",
+      "name": "modelBuilding_QuestBar.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 846
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c26b4": {
+      "importer": "texture",
+      "uuid": "668933e3-e474-4bbd-9837-576c2ff1567b@c26b4",
+      "displayName": "",
+      "id": "c26b4",
+      "name": "file53.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Building_QuestBar.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b41ea": {
+      "importer": "gltf-material",
+      "uuid": "668933e3-e474-4bbd-9837-576c2ff1567b@b41ea",
+      "displayName": "",
+      "id": "b41ea",
+      "name": "Tx_Building_QuestBar.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "acac5": {
+      "importer": "gltf-scene",
+      "uuid": "668933e3-e474-4bbd-9837-576c2ff1567b@acac5",
+      "displayName": "",
+      "id": "acac5",
+      "name": "modelBuilding_QuestBar.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file53",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Building_QuestBar.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "668933e3-e474-4bbd-9837-576c2ff1567b@56784"
+      ],
+      "skeletons": [],
+      "textures": [
+        "668933e3-e474-4bbd-9837-576c2ff1567b@c26b4"
+      ],
+      "materials": [
+        "668933e3-e474-4bbd-9837-576c2ff1567b@b41ea"
+      ],
+      "scenes": [
+        "668933e3-e474-4bbd-9837-576c2ff1567b@acac5"
+      ]
+    }
+  }
+}

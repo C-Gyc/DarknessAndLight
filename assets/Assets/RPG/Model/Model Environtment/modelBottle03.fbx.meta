@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9ca9fe4b-f5ee-4974-80cd-730da5818f4c",
+  "files": [],
+  "subMetas": {
+    "11788": {
+      "importer": "gltf-mesh",
+      "uuid": "9ca9fe4b-f5ee-4974-80cd-730da5818f4c@11788",
+      "displayName": "",
+      "id": "11788",
+      "name": "modelBottle03.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 180
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "91798": {
+      "importer": "gltf-material",
+      "uuid": "9ca9fe4b-f5ee-4974-80cd-730da5818f4c@91798",
+      "displayName": "",
+      "id": "91798",
+      "name": "Tx_Bottle.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a39a5": {
+      "importer": "texture",
+      "uuid": "9ca9fe4b-f5ee-4974-80cd-730da5818f4c@a39a5",
+      "displayName": "",
+      "id": "a39a5",
+      "name": "file10.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Bottle.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c0060": {
+      "importer": "gltf-scene",
+      "uuid": "9ca9fe4b-f5ee-4974-80cd-730da5818f4c@c0060",
+      "displayName": "",
+      "id": "c0060",
+      "name": "modelBottle03.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file10",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Bottle.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "9ca9fe4b-f5ee-4974-80cd-730da5818f4c@11788"
+      ],
+      "skeletons": [],
+      "textures": [
+        "9ca9fe4b-f5ee-4974-80cd-730da5818f4c@a39a5"
+      ],
+      "materials": [
+        "9ca9fe4b-f5ee-4974-80cd-730da5818f4c@91798"
+      ],
+      "scenes": [
+        "9ca9fe4b-f5ee-4974-80cd-730da5818f4c@c0060"
+      ]
+    }
+  }
+}

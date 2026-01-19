@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8f4514c9-7709-4b61-95b0-c47aa3a87eb9",
+  "files": [],
+  "subMetas": {
+    "2862e": {
+      "importer": "gltf-mesh",
+      "uuid": "8f4514c9-7709-4b61-95b0-c47aa3a87eb9@2862e",
+      "displayName": "",
+      "id": "2862e",
+      "name": "modelBuilding_House2.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 688
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "35d3f": {
+      "importer": "texture",
+      "uuid": "8f4514c9-7709-4b61-95b0-c47aa3a87eb9@35d3f",
+      "displayName": "",
+      "id": "35d3f",
+      "name": "file26.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Building_House2.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "54b70": {
+      "importer": "gltf-material",
+      "uuid": "8f4514c9-7709-4b61-95b0-c47aa3a87eb9@54b70",
+      "displayName": "",
+      "id": "54b70",
+      "name": "Tx_Building_House2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c6e88": {
+      "importer": "gltf-scene",
+      "uuid": "8f4514c9-7709-4b61-95b0-c47aa3a87eb9@c6e88",
+      "displayName": "",
+      "id": "c6e88",
+      "name": "modelBuilding_House2.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file26",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Building_House2.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "8f4514c9-7709-4b61-95b0-c47aa3a87eb9@2862e"
+      ],
+      "skeletons": [],
+      "textures": [
+        "8f4514c9-7709-4b61-95b0-c47aa3a87eb9@35d3f"
+      ],
+      "materials": [
+        "8f4514c9-7709-4b61-95b0-c47aa3a87eb9@54b70"
+      ],
+      "scenes": [
+        "8f4514c9-7709-4b61-95b0-c47aa3a87eb9@c6e88"
+      ]
+    }
+  }
+}

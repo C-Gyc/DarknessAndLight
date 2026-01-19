@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "65cd1a03-5f41-4352-85e8-900098bf9b94",
+  "files": [],
+  "subMetas": {
+    "db8bd": {
+      "importer": "gltf-mesh",
+      "uuid": "65cd1a03-5f41-4352-85e8-900098bf9b94@db8bd",
+      "displayName": "",
+      "id": "db8bd",
+      "name": "modelMushrooms.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 216
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "168ea": {
+      "importer": "texture",
+      "uuid": "65cd1a03-5f41-4352-85e8-900098bf9b94@168ea",
+      "displayName": "",
+      "id": "168ea",
+      "name": "pasted__file7.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Mushrooms.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "66ef8": {
+      "importer": "gltf-material",
+      "uuid": "65cd1a03-5f41-4352-85e8-900098bf9b94@66ef8",
+      "displayName": "",
+      "id": "66ef8",
+      "name": "Tx_Mushrooms.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "efe2f": {
+      "importer": "gltf-scene",
+      "uuid": "65cd1a03-5f41-4352-85e8-900098bf9b94@efe2f",
+      "displayName": "",
+      "id": "efe2f",
+      "name": "modelMushrooms.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "pasted__file7",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Mushrooms.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "65cd1a03-5f41-4352-85e8-900098bf9b94@db8bd"
+      ],
+      "skeletons": [],
+      "textures": [
+        "65cd1a03-5f41-4352-85e8-900098bf9b94@168ea"
+      ],
+      "materials": [
+        "65cd1a03-5f41-4352-85e8-900098bf9b94@66ef8"
+      ],
+      "scenes": [
+        "65cd1a03-5f41-4352-85e8-900098bf9b94@efe2f"
+      ]
+    }
+  }
+}

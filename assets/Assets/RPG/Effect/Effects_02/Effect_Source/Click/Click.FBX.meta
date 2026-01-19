@@ -1,0 +1,211 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "96434498-4330-4965-a1e5-a3d2a96c605d",
+  "files": [],
+  "subMetas": {
+    "9bfee": {
+      "importer": "gltf-mesh",
+      "uuid": "96434498-4330-4965-a1e5-a3d2a96c605d@9bfee",
+      "displayName": "",
+      "id": "9bfee",
+      "name": "Click.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 20
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a8879": {
+      "importer": "gltf-mesh",
+      "uuid": "96434498-4330-4965-a1e5-a3d2a96c605d@a8879",
+      "displayName": "",
+      "id": "a8879",
+      "name": "Click2.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 20
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9cf7f": {
+      "importer": "gltf-mesh",
+      "uuid": "96434498-4330-4965-a1e5-a3d2a96c605d@9cf7f",
+      "displayName": "",
+      "id": "9cf7f",
+      "name": "Click3.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 20
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e4af0": {
+      "importer": "gltf-mesh",
+      "uuid": "96434498-4330-4965-a1e5-a3d2a96c605d@e4af0",
+      "displayName": "",
+      "id": "e4af0",
+      "name": "Click4.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 20
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f3416": {
+      "importer": "texture",
+      "uuid": "96434498-4330-4965-a1e5-a3d2a96c605d@f3416",
+      "displayName": "",
+      "id": "f3416",
+      "name": "Map #5.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Effect/Effects_02/Effect_Source/Click/Direction.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "53e01": {
+      "importer": "texture",
+      "uuid": "96434498-4330-4965-a1e5-a3d2a96c605d@53e01",
+      "displayName": "",
+      "id": "53e01",
+      "name": "Map #6.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Effect/Effects_02/Effect_Source/Click/Direction.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c4114": {
+      "importer": "gltf-material",
+      "uuid": "96434498-4330-4965-a1e5-a3d2a96c605d@c4114",
+      "displayName": "",
+      "id": "c4114",
+      "name": "07 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bed34": {
+      "importer": "gltf-scene",
+      "uuid": "96434498-4330-4965-a1e5-a3d2a96c605d@bed34",
+      "displayName": "",
+      "id": "bed34",
+      "name": "Click.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #5",
+        "uri": "db://assets/Assets/RPG/Effect/Effects_02/Effect_Source/Click/Direction.png"
+      },
+      {
+        "name": "Map #6",
+        "uri": "db://assets/Assets/RPG/Effect/Effects_02/Effect_Source/Click/Direction.png"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "96434498-4330-4965-a1e5-a3d2a96c605d@9bfee",
+        "96434498-4330-4965-a1e5-a3d2a96c605d@a8879",
+        "96434498-4330-4965-a1e5-a3d2a96c605d@9cf7f",
+        "96434498-4330-4965-a1e5-a3d2a96c605d@e4af0"
+      ],
+      "skeletons": [],
+      "textures": [
+        "96434498-4330-4965-a1e5-a3d2a96c605d@f3416",
+        "96434498-4330-4965-a1e5-a3d2a96c605d@53e01"
+      ],
+      "materials": [
+        "96434498-4330-4965-a1e5-a3d2a96c605d@c4114"
+      ],
+      "scenes": [
+        "96434498-4330-4965-a1e5-a3d2a96c605d@bed34"
+      ]
+    }
+  }
+}

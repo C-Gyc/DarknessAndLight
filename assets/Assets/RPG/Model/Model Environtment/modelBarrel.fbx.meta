@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e90fc721-b690-494d-8102-8f907795594f",
+  "files": [],
+  "subMetas": {
+    "40027": {
+      "importer": "gltf-mesh",
+      "uuid": "e90fc721-b690-494d-8102-8f907795594f@40027",
+      "displayName": "",
+      "id": "40027",
+      "name": "modelBarrel.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 260
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f421a": {
+      "importer": "texture",
+      "uuid": "e90fc721-b690-494d-8102-8f907795594f@f421a",
+      "displayName": "",
+      "id": "f421a",
+      "name": "pasted__pasted__file11.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Barrel.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5c53d": {
+      "importer": "gltf-material",
+      "uuid": "e90fc721-b690-494d-8102-8f907795594f@5c53d",
+      "displayName": "",
+      "id": "5c53d",
+      "name": "Tx_Barrel.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "31a4f": {
+      "importer": "gltf-scene",
+      "uuid": "e90fc721-b690-494d-8102-8f907795594f@31a4f",
+      "displayName": "",
+      "id": "31a4f",
+      "name": "modelBarrel.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "pasted__pasted__file11",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Barrel.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "e90fc721-b690-494d-8102-8f907795594f@40027"
+      ],
+      "skeletons": [],
+      "textures": [
+        "e90fc721-b690-494d-8102-8f907795594f@f421a"
+      ],
+      "materials": [
+        "e90fc721-b690-494d-8102-8f907795594f@5c53d"
+      ],
+      "scenes": [
+        "e90fc721-b690-494d-8102-8f907795594f@31a4f"
+      ]
+    }
+  }
+}

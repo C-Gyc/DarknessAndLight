@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2c5518b8-7a12-4eac-9772-58a24d2e7c18",
+  "files": [],
+  "subMetas": {
+    "47f76": {
+      "importer": "gltf-mesh",
+      "uuid": "2c5518b8-7a12-4eac-9772-58a24d2e7c18@47f76",
+      "displayName": "",
+      "id": "47f76",
+      "name": "modelTree01_1.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 120
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2d938": {
+      "importer": "texture",
+      "uuid": "2c5518b8-7a12-4eac-9772-58a24d2e7c18@2d938",
+      "displayName": "",
+      "id": "2d938",
+      "name": "file47.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Tree01.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dac06": {
+      "importer": "gltf-material",
+      "uuid": "2c5518b8-7a12-4eac-9772-58a24d2e7c18@dac06",
+      "displayName": "",
+      "id": "dac06",
+      "name": "Tx_Tree01.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "391e4": {
+      "importer": "gltf-scene",
+      "uuid": "2c5518b8-7a12-4eac-9772-58a24d2e7c18@391e4",
+      "displayName": "",
+      "id": "391e4",
+      "name": "modelTree01_1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file47",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Tree01.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "2c5518b8-7a12-4eac-9772-58a24d2e7c18@47f76"
+      ],
+      "skeletons": [],
+      "textures": [
+        "2c5518b8-7a12-4eac-9772-58a24d2e7c18@2d938"
+      ],
+      "materials": [
+        "2c5518b8-7a12-4eac-9772-58a24d2e7c18@dac06"
+      ],
+      "scenes": [
+        "2c5518b8-7a12-4eac-9772-58a24d2e7c18@391e4"
+      ]
+    }
+  }
+}

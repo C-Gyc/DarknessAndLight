@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b0b51f6f-fead-470e-9a73-07020a133f38",
+  "files": [],
+  "subMetas": {
+    "53957": {
+      "importer": "gltf-material",
+      "uuid": "b0b51f6f-fead-470e-9a73-07020a133f38@53957",
+      "displayName": "",
+      "id": "53957",
+      "name": "Tx_Grass01.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5dcab": {
+      "importer": "gltf-mesh",
+      "uuid": "b0b51f6f-fead-470e-9a73-07020a133f38@5dcab",
+      "displayName": "",
+      "id": "5dcab",
+      "name": "modelGrass01.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 80
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d5851": {
+      "importer": "texture",
+      "uuid": "b0b51f6f-fead-470e-9a73-07020a133f38@d5851",
+      "displayName": "",
+      "id": "d5851",
+      "name": "file15.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Grass01.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d7e12": {
+      "importer": "gltf-scene",
+      "uuid": "b0b51f6f-fead-470e-9a73-07020a133f38@d7e12",
+      "displayName": "",
+      "id": "d7e12",
+      "name": "modelGrass01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file15",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Grass01.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "b0b51f6f-fead-470e-9a73-07020a133f38@5dcab"
+      ],
+      "skeletons": [],
+      "textures": [
+        "b0b51f6f-fead-470e-9a73-07020a133f38@d5851"
+      ],
+      "materials": [
+        "b0b51f6f-fead-470e-9a73-07020a133f38@53957"
+      ],
+      "scenes": [
+        "b0b51f6f-fead-470e-9a73-07020a133f38@d7e12"
+      ]
+    }
+  }
+}

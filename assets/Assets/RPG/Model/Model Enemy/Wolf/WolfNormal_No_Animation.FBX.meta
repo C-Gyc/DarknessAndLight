@@ -1,0 +1,145 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "251e401a-1b69-45fb-8952-155d7c3ae7d3",
+  "files": [],
+  "subMetas": {
+    "ffb6a": {
+      "importer": "gltf-mesh",
+      "uuid": "251e401a-1b69-45fb-8952-155d7c3ae7d3@ffb6a",
+      "displayName": "",
+      "id": "ffb6a",
+      "name": "Wolf_Normal.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 1892
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "251e401a-1b69-45fb-8952-155d7c3ae7d3@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 47
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1da29": {
+      "importer": "texture",
+      "uuid": "251e401a-1b69-45fb-8952-155d7c3ae7d3@1da29",
+      "displayName": "",
+      "id": "1da29",
+      "name": "Map #2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Enemy/Wolf/Wolf_Normal.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "db4d2": {
+      "importer": "gltf-material",
+      "uuid": "251e401a-1b69-45fb-8952-155d7c3ae7d3@db4d2",
+      "displayName": "",
+      "id": "db4d2",
+      "name": "02 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3904b": {
+      "importer": "gltf-scene",
+      "uuid": "251e401a-1b69-45fb-8952-155d7c3ae7d3@3904b",
+      "displayName": "",
+      "id": "3904b",
+      "name": "WolfNormal_No_Animation.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #2",
+        "uri": "db://assets/Assets/RPG/Model/Model Enemy/Wolf/Wolf_Normal.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "251e401a-1b69-45fb-8952-155d7c3ae7d3@ffb6a"
+      ],
+      "skeletons": [
+        "251e401a-1b69-45fb-8952-155d7c3ae7d3@438fe"
+      ],
+      "textures": [
+        "251e401a-1b69-45fb-8952-155d7c3ae7d3@1da29"
+      ],
+      "materials": [
+        "251e401a-1b69-45fb-8952-155d7c3ae7d3@db4d2"
+      ],
+      "scenes": [
+        "251e401a-1b69-45fb-8952-155d7c3ae7d3@3904b"
+      ]
+    }
+  }
+}

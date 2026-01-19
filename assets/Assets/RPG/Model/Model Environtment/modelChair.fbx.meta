@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "73307e9c-eb1b-4763-8901-7adada9e0e8e",
+  "files": [],
+  "subMetas": {
+    "0ae11": {
+      "importer": "gltf-mesh",
+      "uuid": "73307e9c-eb1b-4763-8901-7adada9e0e8e@0ae11",
+      "displayName": "",
+      "id": "0ae11",
+      "name": "modelChair.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 52
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "312ba": {
+      "importer": "texture",
+      "uuid": "73307e9c-eb1b-4763-8901-7adada9e0e8e@312ba",
+      "displayName": "",
+      "id": "312ba",
+      "name": "file8.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Chair.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fdf92": {
+      "importer": "gltf-material",
+      "uuid": "73307e9c-eb1b-4763-8901-7adada9e0e8e@fdf92",
+      "displayName": "",
+      "id": "fdf92",
+      "name": "Tx_Chair.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "32b11": {
+      "importer": "gltf-scene",
+      "uuid": "73307e9c-eb1b-4763-8901-7adada9e0e8e@32b11",
+      "displayName": "",
+      "id": "32b11",
+      "name": "modelChair.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file8",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Chair.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "73307e9c-eb1b-4763-8901-7adada9e0e8e@0ae11"
+      ],
+      "skeletons": [],
+      "textures": [
+        "73307e9c-eb1b-4763-8901-7adada9e0e8e@312ba"
+      ],
+      "materials": [
+        "73307e9c-eb1b-4763-8901-7adada9e0e8e@fdf92"
+      ],
+      "scenes": [
+        "73307e9c-eb1b-4763-8901-7adada9e0e8e@32b11"
+      ]
+    }
+  }
+}

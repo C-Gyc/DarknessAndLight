@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "055ff065-95e0-4899-8e6c-e3a3016354dd",
+  "files": [],
+  "subMetas": {
+    "dc3e7": {
+      "importer": "gltf-mesh",
+      "uuid": "055ff065-95e0-4899-8e6c-e3a3016354dd@dc3e7",
+      "displayName": "",
+      "id": "dc3e7",
+      "name": "modelBuilding_WeaponShop.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 586
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d1dba": {
+      "importer": "texture",
+      "uuid": "055ff065-95e0-4899-8e6c-e3a3016354dd@d1dba",
+      "displayName": "",
+      "id": "d1dba",
+      "name": "file51.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Building_WeaponShop.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6b7f0": {
+      "importer": "gltf-material",
+      "uuid": "055ff065-95e0-4899-8e6c-e3a3016354dd@6b7f0",
+      "displayName": "",
+      "id": "6b7f0",
+      "name": "Tx_Building_WeaponShop.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "59ee7": {
+      "importer": "gltf-scene",
+      "uuid": "055ff065-95e0-4899-8e6c-e3a3016354dd@59ee7",
+      "displayName": "",
+      "id": "59ee7",
+      "name": "modelBuilding_WeaponShop.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file51",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Building_WeaponShop.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "055ff065-95e0-4899-8e6c-e3a3016354dd@dc3e7"
+      ],
+      "skeletons": [],
+      "textures": [
+        "055ff065-95e0-4899-8e6c-e3a3016354dd@d1dba"
+      ],
+      "materials": [
+        "055ff065-95e0-4899-8e6c-e3a3016354dd@6b7f0"
+      ],
+      "scenes": [
+        "055ff065-95e0-4899-8e6c-e3a3016354dd@59ee7"
+      ]
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "24d7cb10-6d63-4033-983e-b96db6ca062e",
+  "files": [],
+  "subMetas": {
+    "9ab16": {
+      "importer": "gltf-mesh",
+      "uuid": "24d7cb10-6d63-4033-983e-b96db6ca062e@9ab16",
+      "displayName": "",
+      "id": "9ab16",
+      "name": "modelBucket1.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 114
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a71f": {
+      "importer": "texture",
+      "uuid": "24d7cb10-6d63-4033-983e-b96db6ca062e@7a71f",
+      "displayName": "",
+      "id": "7a71f",
+      "name": "file13.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Bucket1.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0049d": {
+      "importer": "gltf-material",
+      "uuid": "24d7cb10-6d63-4033-983e-b96db6ca062e@0049d",
+      "displayName": "",
+      "id": "0049d",
+      "name": "Tx_Bucket1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d1153": {
+      "importer": "gltf-scene",
+      "uuid": "24d7cb10-6d63-4033-983e-b96db6ca062e@d1153",
+      "displayName": "",
+      "id": "d1153",
+      "name": "modelBucket1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file13",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Bucket1.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "24d7cb10-6d63-4033-983e-b96db6ca062e@9ab16"
+      ],
+      "skeletons": [],
+      "textures": [
+        "24d7cb10-6d63-4033-983e-b96db6ca062e@7a71f"
+      ],
+      "materials": [
+        "24d7cb10-6d63-4033-983e-b96db6ca062e@0049d"
+      ],
+      "scenes": [
+        "24d7cb10-6d63-4033-983e-b96db6ca062e@d1153"
+      ]
+    }
+  }
+}

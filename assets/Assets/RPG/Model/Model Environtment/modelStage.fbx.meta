@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3192999c-1459-4b7e-9a30-f8c867f84183",
+  "files": [],
+  "subMetas": {
+    "528aa": {
+      "importer": "gltf-mesh",
+      "uuid": "3192999c-1459-4b7e-9a30-f8c867f84183@528aa",
+      "displayName": "",
+      "id": "528aa",
+      "name": "modelStage.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 1041
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5b2e9": {
+      "importer": "texture",
+      "uuid": "3192999c-1459-4b7e-9a30-f8c867f84183@5b2e9",
+      "displayName": "",
+      "id": "5b2e9",
+      "name": "pasted__file1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_StageModel.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5f677": {
+      "importer": "gltf-material",
+      "uuid": "3192999c-1459-4b7e-9a30-f8c867f84183@5f677",
+      "displayName": "",
+      "id": "5f677",
+      "name": "Tx_Stage.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6a7d1": {
+      "importer": "gltf-scene",
+      "uuid": "3192999c-1459-4b7e-9a30-f8c867f84183@6a7d1",
+      "displayName": "",
+      "id": "6a7d1",
+      "name": "modelStage.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "pasted__file1",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_StageModel.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "3192999c-1459-4b7e-9a30-f8c867f84183@528aa"
+      ],
+      "skeletons": [],
+      "textures": [
+        "3192999c-1459-4b7e-9a30-f8c867f84183@5b2e9"
+      ],
+      "materials": [
+        "3192999c-1459-4b7e-9a30-f8c867f84183@5f677"
+      ],
+      "scenes": [
+        "3192999c-1459-4b7e-9a30-f8c867f84183@6a7d1"
+      ]
+    }
+  }
+}

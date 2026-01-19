@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "31e25315-0228-44f1-af06-d3ca26714ead",
+  "files": [],
+  "subMetas": {
+    "66971": {
+      "importer": "gltf-material",
+      "uuid": "31e25315-0228-44f1-af06-d3ca26714ead@66971",
+      "displayName": "",
+      "id": "66971",
+      "name": "Tx_flower_purple.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d8ca0": {
+      "importer": "gltf-mesh",
+      "uuid": "31e25315-0228-44f1-af06-d3ca26714ead@d8ca0",
+      "displayName": "",
+      "id": "d8ca0",
+      "name": "modelFlower_purple.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 216
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9776f": {
+      "importer": "texture",
+      "uuid": "31e25315-0228-44f1-af06-d3ca26714ead@9776f",
+      "displayName": "",
+      "id": "9776f",
+      "name": "file21.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_flower_purple.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c4f08": {
+      "importer": "gltf-scene",
+      "uuid": "31e25315-0228-44f1-af06-d3ca26714ead@c4f08",
+      "displayName": "",
+      "id": "c4f08",
+      "name": "modelFlower_purple.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file21",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_flower_purple.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "31e25315-0228-44f1-af06-d3ca26714ead@d8ca0"
+      ],
+      "skeletons": [],
+      "textures": [
+        "31e25315-0228-44f1-af06-d3ca26714ead@9776f"
+      ],
+      "materials": [
+        "31e25315-0228-44f1-af06-d3ca26714ead@66971"
+      ],
+      "scenes": [
+        "31e25315-0228-44f1-af06-d3ca26714ead@c4f08"
+      ]
+    }
+  }
+}

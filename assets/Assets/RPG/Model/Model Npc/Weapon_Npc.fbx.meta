@@ -1,0 +1,206 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0e7ea757-de46-4ced-9cd3-fffeeb23a85a",
+  "files": [
+    "__original-animation-0.bin"
+  ],
+  "subMetas": {
+    "d4e43": {
+      "importer": "gltf-mesh",
+      "uuid": "0e7ea757-de46-4ced-9cd3-fffeeb23a85a@d4e43",
+      "displayName": "",
+      "id": "d4e43",
+      "name": "BlackSmith.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 1492
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73b7f": {
+      "importer": "gltf-animation",
+      "uuid": "0e7ea757-de46-4ced-9cd3-fffeeb23a85a@73b7f",
+      "displayName": "",
+      "id": "73b7f",
+      "name": "Take 001.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 7.875
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "0e7ea757-de46-4ced-9cd3-fffeeb23a85a@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 30
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "612f0": {
+      "importer": "gltf-embeded-image",
+      "uuid": "0e7ea757-de46-4ced-9cd3-fffeeb23a85a@612f0",
+      "displayName": "",
+      "id": "612f0",
+      "name": "file4.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": false,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".jpg",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "91dcf": {
+      "importer": "texture",
+      "uuid": "0e7ea757-de46-4ced-9cd3-fffeeb23a85a@91dcf",
+      "displayName": "",
+      "id": "91dcf",
+      "name": "file4.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0e7ea757-de46-4ced-9cd3-fffeeb23a85a@612f0"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4a586": {
+      "importer": "gltf-material",
+      "uuid": "0e7ea757-de46-4ced-9cd3-fffeeb23a85a@4a586",
+      "displayName": "",
+      "id": "4a586",
+      "name": "WeaponSmithMat.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "46b37": {
+      "importer": "gltf-scene",
+      "uuid": "0e7ea757-de46-4ced-9cd3-fffeeb23a85a@46b37",
+      "displayName": "",
+      "id": "46b37",
+      "name": "Weapon_Npc.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file4",
+        "uri": "0e7ea757-de46-4ced-9cd3-fffeeb23a85a@612f0"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 7.875,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Take 001",
+            "from": 0,
+            "to": 7.875,
+            "wrapMode": 2,
+            "previousId": "73b7f"
+          }
+        ]
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "0e7ea757-de46-4ced-9cd3-fffeeb23a85a@d4e43"
+      ],
+      "skeletons": [
+        "0e7ea757-de46-4ced-9cd3-fffeeb23a85a@438fe"
+      ],
+      "textures": [
+        "0e7ea757-de46-4ced-9cd3-fffeeb23a85a@91dcf"
+      ],
+      "materials": [
+        "0e7ea757-de46-4ced-9cd3-fffeeb23a85a@4a586"
+      ],
+      "scenes": [
+        "0e7ea757-de46-4ced-9cd3-fffeeb23a85a@46b37"
+      ]
+    }
+  }
+}

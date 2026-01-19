@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9d4c6742-d0e3-4e38-9b00-9591d17d9935",
+  "files": [],
+  "subMetas": {
+    "1fee5": {
+      "importer": "gltf-mesh",
+      "uuid": "9d4c6742-d0e3-4e38-9b00-9591d17d9935@1fee5",
+      "displayName": "",
+      "id": "1fee5",
+      "name": "modelWelcome.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 28
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "583b7": {
+      "importer": "texture",
+      "uuid": "9d4c6742-d0e3-4e38-9b00-9591d17d9935@583b7",
+      "displayName": "",
+      "id": "583b7",
+      "name": "file5.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Welcome.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5117d": {
+      "importer": "gltf-material",
+      "uuid": "9d4c6742-d0e3-4e38-9b00-9591d17d9935@5117d",
+      "displayName": "",
+      "id": "5117d",
+      "name": "Tx_Welcome.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0af0e": {
+      "importer": "gltf-scene",
+      "uuid": "9d4c6742-d0e3-4e38-9b00-9591d17d9935@0af0e",
+      "displayName": "",
+      "id": "0af0e",
+      "name": "modelWelcome.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file5",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Welcome.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "9d4c6742-d0e3-4e38-9b00-9591d17d9935@1fee5"
+      ],
+      "skeletons": [],
+      "textures": [
+        "9d4c6742-d0e3-4e38-9b00-9591d17d9935@583b7"
+      ],
+      "materials": [
+        "9d4c6742-d0e3-4e38-9b00-9591d17d9935@5117d"
+      ],
+      "scenes": [
+        "9d4c6742-d0e3-4e38-9b00-9591d17d9935@0af0e"
+      ]
+    }
+  }
+}

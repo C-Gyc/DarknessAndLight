@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3426b7b7-1aeb-4839-866d-4650e906c879",
+  "files": [],
+  "subMetas": {
+    "d0cb2": {
+      "importer": "gltf-mesh",
+      "uuid": "3426b7b7-1aeb-4839-866d-4650e906c879@d0cb2",
+      "displayName": "",
+      "id": "d0cb2",
+      "name": "modelBridge.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 120
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "957bc": {
+      "importer": "texture",
+      "uuid": "3426b7b7-1aeb-4839-866d-4650e906c879@957bc",
+      "displayName": "",
+      "id": "957bc",
+      "name": "file7.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Bridge.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cb8fa": {
+      "importer": "gltf-material",
+      "uuid": "3426b7b7-1aeb-4839-866d-4650e906c879@cb8fa",
+      "displayName": "",
+      "id": "cb8fa",
+      "name": "Tx_Bridge.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e78b3": {
+      "importer": "gltf-scene",
+      "uuid": "3426b7b7-1aeb-4839-866d-4650e906c879@e78b3",
+      "displayName": "",
+      "id": "e78b3",
+      "name": "modelBridge.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file7",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Bridge.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "3426b7b7-1aeb-4839-866d-4650e906c879@d0cb2"
+      ],
+      "skeletons": [],
+      "textures": [
+        "3426b7b7-1aeb-4839-866d-4650e906c879@957bc"
+      ],
+      "materials": [
+        "3426b7b7-1aeb-4839-866d-4650e906c879@cb8fa"
+      ],
+      "scenes": [
+        "3426b7b7-1aeb-4839-866d-4650e906c879@e78b3"
+      ]
+    }
+  }
+}

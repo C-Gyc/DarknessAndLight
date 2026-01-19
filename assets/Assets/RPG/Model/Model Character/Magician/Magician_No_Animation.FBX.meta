@@ -1,0 +1,182 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "4938a109-c38c-42ff-a522-ab10939f2ee5",
+  "files": [],
+  "subMetas": {
+    "30732": {
+      "importer": "gltf-skeleton",
+      "uuid": "4938a109-c38c-42ff-a522-ab10939f2ee5@30732",
+      "displayName": "",
+      "id": "30732",
+      "name": "UnnamedSkeleton-0.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 43
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5b3d8": {
+      "importer": "gltf-mesh",
+      "uuid": "4938a109-c38c-42ff-a522-ab10939f2ee5@5b3d8",
+      "displayName": "",
+      "id": "5b3d8",
+      "name": "Magician_Body.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 1642
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0496e": {
+      "importer": "gltf-mesh",
+      "uuid": "4938a109-c38c-42ff-a522-ab10939f2ee5@0496e",
+      "displayName": "",
+      "id": "0496e",
+      "name": "Magician_Staff.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 216
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f1394": {
+      "importer": "gltf-skeleton",
+      "uuid": "4938a109-c38c-42ff-a522-ab10939f2ee5@f1394",
+      "displayName": "",
+      "id": "f1394",
+      "name": "UnnamedSkeleton-1.skeleton",
+      "userData": {
+        "gltfIndex": 1,
+        "jointsLength": 1
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ab932": {
+      "importer": "texture",
+      "uuid": "4938a109-c38c-42ff-a522-ab10939f2ee5@ab932",
+      "displayName": "",
+      "id": "ab932",
+      "name": "Map #0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Character/Magician/Mage_Texture.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "af546": {
+      "importer": "gltf-material",
+      "uuid": "4938a109-c38c-42ff-a522-ab10939f2ee5@af546",
+      "displayName": "",
+      "id": "af546",
+      "name": "Magician.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9daa1": {
+      "importer": "gltf-scene",
+      "uuid": "4938a109-c38c-42ff-a522-ab10939f2ee5@9daa1",
+      "displayName": "",
+      "id": "9daa1",
+      "name": "Magician_No_Animation.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #0",
+        "uri": "db://assets/Assets/RPG/Model/Model Character/Magician/Mage_Texture.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "4938a109-c38c-42ff-a522-ab10939f2ee5@5b3d8",
+        "4938a109-c38c-42ff-a522-ab10939f2ee5@0496e"
+      ],
+      "skeletons": [
+        "4938a109-c38c-42ff-a522-ab10939f2ee5@30732",
+        "4938a109-c38c-42ff-a522-ab10939f2ee5@f1394"
+      ],
+      "textures": [
+        "4938a109-c38c-42ff-a522-ab10939f2ee5@ab932"
+      ],
+      "materials": [
+        "4938a109-c38c-42ff-a522-ab10939f2ee5@af546"
+      ],
+      "scenes": [
+        "4938a109-c38c-42ff-a522-ab10939f2ee5@9daa1"
+      ]
+    }
+  }
+}

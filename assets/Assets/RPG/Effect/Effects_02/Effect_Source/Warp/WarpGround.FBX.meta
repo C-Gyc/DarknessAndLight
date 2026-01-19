@@ -1,0 +1,173 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "05bb35fd-24f4-4d63-acce-4fecd3eb7f23",
+  "files": [],
+  "subMetas": {
+    "35400": {
+      "importer": "gltf-mesh",
+      "uuid": "05bb35fd-24f4-4d63-acce-4fecd3eb7f23@35400",
+      "displayName": "",
+      "id": "35400",
+      "name": "Warp02.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 36
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ed56f": {
+      "importer": "gltf-mesh",
+      "uuid": "05bb35fd-24f4-4d63-acce-4fecd3eb7f23@ed56f",
+      "displayName": "",
+      "id": "ed56f",
+      "name": "Warp01.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 36
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6b9e5": {
+      "importer": "texture",
+      "uuid": "05bb35fd-24f4-4d63-acce-4fecd3eb7f23@6b9e5",
+      "displayName": "",
+      "id": "6b9e5",
+      "name": "Map #3.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Effect/Effects_02/Effect_Source/Warp/WarpGround.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f8008": {
+      "importer": "texture",
+      "uuid": "05bb35fd-24f4-4d63-acce-4fecd3eb7f23@f8008",
+      "displayName": "",
+      "id": "f8008",
+      "name": "Map #4.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Effect/Effects_02/Effect_Source/Warp/WarpGround.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "583b2": {
+      "importer": "gltf-material",
+      "uuid": "05bb35fd-24f4-4d63-acce-4fecd3eb7f23@583b2",
+      "displayName": "",
+      "id": "583b2",
+      "name": "Warp.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b1848": {
+      "importer": "gltf-scene",
+      "uuid": "05bb35fd-24f4-4d63-acce-4fecd3eb7f23@b1848",
+      "displayName": "",
+      "id": "b1848",
+      "name": "WarpGround.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #3",
+        "uri": "db://assets/Assets/RPG/Effect/Effects_02/Effect_Source/Warp/WarpGround.png"
+      },
+      {
+        "name": "Map #4",
+        "uri": "db://assets/Assets/RPG/Effect/Effects_02/Effect_Source/Warp/WarpGround.png"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "05bb35fd-24f4-4d63-acce-4fecd3eb7f23@ed56f",
+        "05bb35fd-24f4-4d63-acce-4fecd3eb7f23@35400"
+      ],
+      "skeletons": [],
+      "textures": [
+        "05bb35fd-24f4-4d63-acce-4fecd3eb7f23@6b9e5",
+        "05bb35fd-24f4-4d63-acce-4fecd3eb7f23@f8008"
+      ],
+      "materials": [
+        "05bb35fd-24f4-4d63-acce-4fecd3eb7f23@583b2"
+      ],
+      "scenes": [
+        "05bb35fd-24f4-4d63-acce-4fecd3eb7f23@b1848"
+      ]
+    }
+  }
+}

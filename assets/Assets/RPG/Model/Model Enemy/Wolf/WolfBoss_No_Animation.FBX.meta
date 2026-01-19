@@ -1,0 +1,227 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9cd8d9d6-4bf5-4340-977a-d5fc845d2013",
+  "files": [],
+  "subMetas": {
+    "30732": {
+      "importer": "gltf-skeleton",
+      "uuid": "9cd8d9d6-4bf5-4340-977a-d5fc845d2013@30732",
+      "displayName": "",
+      "id": "30732",
+      "name": "UnnamedSkeleton-0.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 47
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3ca82": {
+      "importer": "gltf-mesh",
+      "uuid": "9cd8d9d6-4bf5-4340-977a-d5fc845d2013@3ca82",
+      "displayName": "",
+      "id": "3ca82",
+      "name": "Wolf_Boss.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 2252
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4bbe7": {
+      "importer": "gltf-mesh",
+      "uuid": "9cd8d9d6-4bf5-4340-977a-d5fc845d2013@4bbe7",
+      "displayName": "",
+      "id": "4bbe7",
+      "name": "Wolf_Boss_Armor.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 224
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f1394": {
+      "importer": "gltf-skeleton",
+      "uuid": "9cd8d9d6-4bf5-4340-977a-d5fc845d2013@f1394",
+      "displayName": "",
+      "id": "f1394",
+      "name": "UnnamedSkeleton-1.skeleton",
+      "userData": {
+        "gltfIndex": 1,
+        "jointsLength": 20
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6b9e5": {
+      "importer": "texture",
+      "uuid": "9cd8d9d6-4bf5-4340-977a-d5fc845d2013@6b9e5",
+      "displayName": "",
+      "id": "6b9e5",
+      "name": "Map #3.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Enemy/Wolf/Wolf_Boss.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f8008": {
+      "importer": "texture",
+      "uuid": "9cd8d9d6-4bf5-4340-977a-d5fc845d2013@f8008",
+      "displayName": "",
+      "id": "f8008",
+      "name": "Map #4.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Enemy/Wolf/Armor_Texture.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6363a": {
+      "importer": "gltf-material",
+      "uuid": "9cd8d9d6-4bf5-4340-977a-d5fc845d2013@6363a",
+      "displayName": "",
+      "id": "6363a",
+      "name": "03 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c4114": {
+      "importer": "gltf-material",
+      "uuid": "9cd8d9d6-4bf5-4340-977a-d5fc845d2013@c4114",
+      "displayName": "",
+      "id": "c4114",
+      "name": "07 - Default.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5097f": {
+      "importer": "gltf-scene",
+      "uuid": "9cd8d9d6-4bf5-4340-977a-d5fc845d2013@5097f",
+      "displayName": "",
+      "id": "5097f",
+      "name": "WolfBoss_No_Animation.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #3",
+        "uri": "db://assets/Assets/RPG/Model/Model Enemy/Wolf/Wolf_Boss.jpg"
+      },
+      {
+        "name": "Map #4",
+        "uri": "db://assets/Assets/RPG/Model/Model Enemy/Wolf/Armor_Texture.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "9cd8d9d6-4bf5-4340-977a-d5fc845d2013@3ca82",
+        "9cd8d9d6-4bf5-4340-977a-d5fc845d2013@4bbe7"
+      ],
+      "skeletons": [
+        "9cd8d9d6-4bf5-4340-977a-d5fc845d2013@30732",
+        "9cd8d9d6-4bf5-4340-977a-d5fc845d2013@f1394"
+      ],
+      "textures": [
+        "9cd8d9d6-4bf5-4340-977a-d5fc845d2013@6b9e5",
+        "9cd8d9d6-4bf5-4340-977a-d5fc845d2013@f8008"
+      ],
+      "materials": [
+        "9cd8d9d6-4bf5-4340-977a-d5fc845d2013@6363a",
+        "9cd8d9d6-4bf5-4340-977a-d5fc845d2013@c4114"
+      ],
+      "scenes": [
+        "9cd8d9d6-4bf5-4340-977a-d5fc845d2013@5097f"
+      ]
+    }
+  }
+}

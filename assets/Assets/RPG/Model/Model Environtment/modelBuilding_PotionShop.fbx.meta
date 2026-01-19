@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "45568db9-1c96-49da-a70a-ae77fa3b5bf9",
+  "files": [],
+  "subMetas": {
+    "c8674": {
+      "importer": "gltf-mesh",
+      "uuid": "45568db9-1c96-49da-a70a-ae77fa3b5bf9@c8674",
+      "displayName": "",
+      "id": "c8674",
+      "name": "modelBuilding_PotionShop.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 742
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9f58c": {
+      "importer": "texture",
+      "uuid": "45568db9-1c96-49da-a70a-ae77fa3b5bf9@9f58c",
+      "displayName": "",
+      "id": "9f58c",
+      "name": "file48.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Building_PotionShop.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b8a15": {
+      "importer": "gltf-material",
+      "uuid": "45568db9-1c96-49da-a70a-ae77fa3b5bf9@b8a15",
+      "displayName": "",
+      "id": "b8a15",
+      "name": "Tx_Building_PotionShop.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9e52": {
+      "importer": "gltf-scene",
+      "uuid": "45568db9-1c96-49da-a70a-ae77fa3b5bf9@f9e52",
+      "displayName": "",
+      "id": "f9e52",
+      "name": "modelBuilding_PotionShop.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file48",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Building_PotionShop.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "45568db9-1c96-49da-a70a-ae77fa3b5bf9@c8674"
+      ],
+      "skeletons": [],
+      "textures": [
+        "45568db9-1c96-49da-a70a-ae77fa3b5bf9@9f58c"
+      ],
+      "materials": [
+        "45568db9-1c96-49da-a70a-ae77fa3b5bf9@b8a15"
+      ],
+      "scenes": [
+        "45568db9-1c96-49da-a70a-ae77fa3b5bf9@f9e52"
+      ]
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2c7add0d-aa20-4646-bae8-1f86f7b5d4e4",
+  "files": [],
+  "subMetas": {
+    "bfdab": {
+      "importer": "gltf-mesh",
+      "uuid": "2c7add0d-aa20-4646-bae8-1f86f7b5d4e4@bfdab",
+      "displayName": "",
+      "id": "bfdab",
+      "name": "modelFence01.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 72
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "adacb": {
+      "importer": "gltf-embeded-image",
+      "uuid": "2c7add0d-aa20-4646-bae8-1f86f7b5d4e4@adacb",
+      "displayName": "",
+      "id": "adacb",
+      "name": "file2.image",
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "e873a": {
+      "importer": "texture",
+      "uuid": "2c7add0d-aa20-4646-bae8-1f86f7b5d4e4@e873a",
+      "displayName": "",
+      "id": "e873a",
+      "name": "file2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "2c7add0d-aa20-4646-bae8-1f86f7b5d4e4@adacb"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2575c": {
+      "importer": "gltf-material",
+      "uuid": "2c7add0d-aa20-4646-bae8-1f86f7b5d4e4@2575c",
+      "displayName": "",
+      "id": "2575c",
+      "name": "Tx_Fence.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a217c": {
+      "importer": "gltf-scene",
+      "uuid": "2c7add0d-aa20-4646-bae8-1f86f7b5d4e4@a217c",
+      "displayName": "",
+      "id": "a217c",
+      "name": "modelFence01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file2",
+        "uri": "2c7add0d-aa20-4646-bae8-1f86f7b5d4e4@adacb"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "2c7add0d-aa20-4646-bae8-1f86f7b5d4e4@bfdab"
+      ],
+      "skeletons": [],
+      "textures": [
+        "2c7add0d-aa20-4646-bae8-1f86f7b5d4e4@e873a"
+      ],
+      "materials": [
+        "2c7add0d-aa20-4646-bae8-1f86f7b5d4e4@2575c"
+      ],
+      "scenes": [
+        "2c7add0d-aa20-4646-bae8-1f86f7b5d4e4@a217c"
+      ]
+    }
+  }
+}

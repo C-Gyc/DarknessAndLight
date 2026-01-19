@@ -1,0 +1,182 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "233adbe7-6e88-4005-889e-6bcedf88849b",
+  "files": [],
+  "subMetas": {
+    "30732": {
+      "importer": "gltf-skeleton",
+      "uuid": "233adbe7-6e88-4005-889e-6bcedf88849b@30732",
+      "displayName": "",
+      "id": "30732",
+      "name": "UnnamedSkeleton-0.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 1
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "56237": {
+      "importer": "gltf-scene",
+      "uuid": "233adbe7-6e88-4005-889e-6bcedf88849b@56237",
+      "displayName": "",
+      "id": "56237",
+      "name": "Swordman_No_Animation.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1ffb5": {
+      "importer": "gltf-mesh",
+      "uuid": "233adbe7-6e88-4005-889e-6bcedf88849b@1ffb5",
+      "displayName": "",
+      "id": "1ffb5",
+      "name": "Swordman_Sword.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 112
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "471af": {
+      "importer": "gltf-mesh",
+      "uuid": "233adbe7-6e88-4005-889e-6bcedf88849b@471af",
+      "displayName": "",
+      "id": "471af",
+      "name": "Swordman_Body001.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 1296
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f1394": {
+      "importer": "gltf-skeleton",
+      "uuid": "233adbe7-6e88-4005-889e-6bcedf88849b@f1394",
+      "displayName": "",
+      "id": "f1394",
+      "name": "UnnamedSkeleton-1.skeleton",
+      "userData": {
+        "gltfIndex": 1,
+        "jointsLength": 27
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ab932": {
+      "importer": "texture",
+      "uuid": "233adbe7-6e88-4005-889e-6bcedf88849b@ab932",
+      "displayName": "",
+      "id": "ab932",
+      "name": "Map #0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Character/Swordman/sword_Texture.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "47e7a": {
+      "importer": "gltf-material",
+      "uuid": "233adbe7-6e88-4005-889e-6bcedf88849b@47e7a",
+      "displayName": "",
+      "id": "47e7a",
+      "name": "Swwordman.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #0",
+        "uri": "db://assets/Assets/RPG/Model/Model Character/Swordman/sword_Texture.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "233adbe7-6e88-4005-889e-6bcedf88849b@1ffb5",
+        "233adbe7-6e88-4005-889e-6bcedf88849b@471af"
+      ],
+      "skeletons": [
+        "233adbe7-6e88-4005-889e-6bcedf88849b@30732",
+        "233adbe7-6e88-4005-889e-6bcedf88849b@f1394"
+      ],
+      "textures": [
+        "233adbe7-6e88-4005-889e-6bcedf88849b@ab932"
+      ],
+      "materials": [
+        "233adbe7-6e88-4005-889e-6bcedf88849b@47e7a"
+      ],
+      "scenes": [
+        "233adbe7-6e88-4005-889e-6bcedf88849b@56237"
+      ]
+    }
+  }
+}

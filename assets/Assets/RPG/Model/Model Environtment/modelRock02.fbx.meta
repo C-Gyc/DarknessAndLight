@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b9076496-b3e9-4579-88ba-f32246e25358",
+  "files": [],
+  "subMetas": {
+    "79611": {
+      "importer": "gltf-scene",
+      "uuid": "b9076496-b3e9-4579-88ba-f32246e25358@79611",
+      "displayName": "",
+      "id": "79611",
+      "name": "modelRock02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b1c8a": {
+      "importer": "gltf-mesh",
+      "uuid": "b9076496-b3e9-4579-88ba-f32246e25358@b1c8a",
+      "displayName": "",
+      "id": "b1c8a",
+      "name": "modelRock02.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 95
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b1881": {
+      "importer": "texture",
+      "uuid": "b9076496-b3e9-4579-88ba-f32246e25358@b1881",
+      "displayName": "",
+      "id": "b1881",
+      "name": "pasted__file14.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Rock01.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "36c7c": {
+      "importer": "gltf-material",
+      "uuid": "b9076496-b3e9-4579-88ba-f32246e25358@36c7c",
+      "displayName": "",
+      "id": "36c7c",
+      "name": "Tx_Rock01.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "pasted__file14",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Rock01.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "b9076496-b3e9-4579-88ba-f32246e25358@b1c8a"
+      ],
+      "skeletons": [],
+      "textures": [
+        "b9076496-b3e9-4579-88ba-f32246e25358@b1881"
+      ],
+      "materials": [
+        "b9076496-b3e9-4579-88ba-f32246e25358@36c7c"
+      ],
+      "scenes": [
+        "b9076496-b3e9-4579-88ba-f32246e25358@79611"
+      ]
+    }
+  }
+}

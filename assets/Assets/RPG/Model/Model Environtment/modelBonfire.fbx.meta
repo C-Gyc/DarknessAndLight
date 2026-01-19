@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "7c98dc9e-62b6-419a-8d59-6589c24a2056",
+  "files": [],
+  "subMetas": {
+    "0eb9c": {
+      "importer": "gltf-mesh",
+      "uuid": "7c98dc9e-62b6-419a-8d59-6589c24a2056@0eb9c",
+      "displayName": "",
+      "id": "0eb9c",
+      "name": "modelBonfire.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 192
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a154b": {
+      "importer": "texture",
+      "uuid": "7c98dc9e-62b6-419a-8d59-6589c24a2056@a154b",
+      "displayName": "",
+      "id": "a154b",
+      "name": "pasted__file10.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Bonfire.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9844a": {
+      "importer": "gltf-material",
+      "uuid": "7c98dc9e-62b6-419a-8d59-6589c24a2056@9844a",
+      "displayName": "",
+      "id": "9844a",
+      "name": "Tx_Bonfire.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f21f5": {
+      "importer": "gltf-scene",
+      "uuid": "7c98dc9e-62b6-419a-8d59-6589c24a2056@f21f5",
+      "displayName": "",
+      "id": "f21f5",
+      "name": "modelBonfire.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "pasted__file10",
+        "uri": "db://assets/Assets/RPG/Model/Model Environtment/Textrue/Tx_Bonfire.jpg"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "7c98dc9e-62b6-419a-8d59-6589c24a2056@0eb9c"
+      ],
+      "skeletons": [],
+      "textures": [
+        "7c98dc9e-62b6-419a-8d59-6589c24a2056@a154b"
+      ],
+      "materials": [
+        "7c98dc9e-62b6-419a-8d59-6589c24a2056@9844a"
+      ],
+      "scenes": [
+        "7c98dc9e-62b6-419a-8d59-6589c24a2056@f21f5"
+      ]
+    }
+  }
+}
