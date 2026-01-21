@@ -10,7 +10,7 @@ export class Player extends Component {
     private _moveDir: Vec3 = new Vec3();
     private _aniState: Map<string, { min: number, max: number }> = new Map();
     private _sample: number = 0;
-    private _curState: string = 'Idle';
+    private _curState: string = null;
     private _targetPos: Vec3 = null;
     private _characterCtrl: CharacterController
     private _anim: SkeletalAnimation = null;
