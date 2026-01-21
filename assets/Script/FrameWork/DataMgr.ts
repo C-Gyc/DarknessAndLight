@@ -75,6 +75,7 @@ class CSVCtrl {
             }
             this._datas.set(obj['id'], <DataBase>obj);
         }
+        
     }
     // 获取当前文件里存储的某一段数据（对象）
     getDataById<T extends DataBase>(id: number): T {

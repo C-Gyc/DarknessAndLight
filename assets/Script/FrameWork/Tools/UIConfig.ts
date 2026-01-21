@@ -1,5 +1,9 @@
 export const UIRoot = "Canvas/UIRoot";
 export const UIPath = 'UIPrefab/';
 export enum UIName {
-    Logo = 'Logo',
+    MainMenu = "MainMenu",
+    RoleUI = "RoleUI",
+    MinMapUI = "MinMapUI",
+    BagUI = "BagUI",
+    ShopUI = "ShopUI",
 }
