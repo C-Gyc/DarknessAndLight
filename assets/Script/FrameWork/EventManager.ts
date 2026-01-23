@@ -43,11 +43,11 @@ export class EventMgr {
     // 'refresh',this.clear,this
     on(msg:string, call:Function, target:any) {
         // 限制同一个函数被重复注册
-        for (const lis of this._listeners) {
-            if (lis.equals(call)) {
-                return;
-            }
-        }
+        // for (const lis of this._listeners) {
+        //     if (lis.equals(call)) {
+        //         return;
+        //     }
+        // }
         let listener = new Listener(msg, call, target);
         this._listeners.push(listener);
     }

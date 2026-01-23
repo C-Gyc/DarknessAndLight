@@ -6,11 +6,16 @@ const { ccclass, property } = _decorator;
 @ccclass('MainMenu')
 export class MainMenu extends UIBase {
    bag(){
-        this.openUI(UIName.BagUI,UIType.PopWin);
+        this.openUI(UIName.BagUI,UIType.Widget);
    }
 
+   equip(){
+     this.openUI(UIName.EquipUI,UIType.Widget);
+   }
    skill(){
-    this.openUI(UIName.ShopUI,UIType.PopWin);
+    }
+    status(){
+      this.openUI(UIName.StatusUI,UIType.Widget);
     }
 }
 

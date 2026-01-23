@@ -6,4 +6,7 @@ export enum UIName {
     MinMapUI = "MinMapUI",
     BagUI = "BagUI",
     ShopUI = "ShopUI",
+    IconUI = "IconUI",
+    EquipUI="EquipUI",
+    StatusUI = "StatusUI"
 }

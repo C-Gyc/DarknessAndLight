@@ -1,4 +1,4 @@
-﻿4001,致命一击,skill-02,伤害 250%,SingleTarget,Attack,250,0,6,1,Swordman,1,Enemy,1.5,,,0
+4001,致命一击,skill-02,伤害 250%,SingleTarget,Attack,250,0,6,1,Swordman,1,Enemy,1.5,,,0
 4002,盾牌精通,skill-07,+防御 130%,Buff,Def,130,5,3,5,Swordman,3,Self,0,,,0
 4003,战嚎,skill-05,+伤害 150%,Buff,Attack,150,60,15,60,Swordman,3,Self,0,,,0
 4004,回旋斩,skill-03,攻击力 200%所有敌人,MultiTarget,Attack,200,0,10,20,Swordman,6,Self,0,,,0

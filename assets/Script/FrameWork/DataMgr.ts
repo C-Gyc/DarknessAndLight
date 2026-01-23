@@ -32,17 +32,17 @@ class CSVCtrl {
         // 获取第0行 作为每个数据对象的属性
         let propertys: string[] = datainfos[0].split(',');
         // 把表格第一列删除
-        propertys.shift();
+        //propertys.shift();
         // 去掉表格第一行
         datainfos.shift();
         // 数据类型
         let types: string[] = datainfos[0].split(',');
-        types.shift();
+        //types.shift();
         datainfos.shift();
 
         for (const info of datainfos) {
             let values = info.split(',');
-            values.shift();
+            //values.shift();
             // 创建一个对象
             let obj = {};
             for (let i = 0; i < values.length; i++) {
